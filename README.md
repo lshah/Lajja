@@ -6,7 +6,8 @@ I am a Software Quality Analyst professionally but having worked with front-end 
 
 These are some of the personal projects I created while exploring front-end programming languages
 
-[JS todo list] (https://lshah.github.io/todolist/)
+[JS todo list](https://lshah.github.io/todolist/)
+
  - Add a task
  - Store task in local storage
  - Delete a task
@@ -15,16 +16,16 @@ These are some of the personal projects I created while exploring front-end prog
  - Delete all tasks
  - Count
 
-[CSS pattern] (https://lshah.github.io/pattern/)
+[CSS pattern](https://lshah.github.io/pattern/)
  - Using CSS transform
  
-[CSS animation] (https://lshah.github.io/cssproject/)
+[CSS animation](https://lshah.github.io/cssproject/)
 - Using CSS animation
 
-[CSS Star Wars like scrolling text} (https://lshah.github.io/scrolling/)
+[CSS Star Wars like scrolling text](https://lshah.github.io/scrolling/)
 - Using CSS animation
 
-[CSS navigation] (https://lshah.github.io/navigationmenu/)
+[CSS navigation](https://lshah.github.io/navigationmenu/)
 - Using flexbox
 
 
