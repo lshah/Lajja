@@ -1,3 +1,5 @@
+# myprojects
+
 I am a Software Quality Analyst professionally but having worked with front-end throughout my career I have developed an interest in front-end web development especially HTML, CSS and Javascript.
 
 These are some of the personal projects I created while exploring front-end programming languages
