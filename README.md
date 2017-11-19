@@ -26,4 +26,6 @@ These are some of the projects I created while exploring front-end programming
 [CSS navigation](https://lshah.github.io/navigationmenu/)
 - Using flexbox
 
-[CSS](https://lshah.github.io/cssstormtrooper/)
+[CSS Stormtrooper](https://lshah.github.io/cssstormtrooper/)
+
+[CSS Star Wars Resistance](https://lshah.github.io/cssstarwarsresistance/)
