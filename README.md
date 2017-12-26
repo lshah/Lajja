@@ -30,4 +30,4 @@ These are some of the projects I created while exploring front-end programming
 
 [CSS Star Wars Resistance](https://lshah.github.io/cssstarwarsresistance/)
 
-[Festive lights](https://lshah.github.io/festivelights/)
+[CSS Festive lights](https://lshah.github.io/festivelights/)
