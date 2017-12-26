@@ -1,6 +1,6 @@
 ## myprojects
 
-I create HTML, CSS and some times JS projects as a hobby. Here's a collection of some of the ones I like...
+I create HTML, CSS and sometimes JS projects as a hobby. Here's a collection of some of the ones I like...
 
 [JS todo list](https://lshah.github.io/todolist/)
 
